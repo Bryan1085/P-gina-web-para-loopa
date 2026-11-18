@@ -1,10 +1,10 @@
 {
-  "name": "LOOPA — Modelador 3D Táctil",
+  "name": "LOOPA — Software de modelado 3D",
   "short_name": "LOOPA",
-  "description": "Modelador 3D táctil para iPad y navegador con modos Objeto y Edición, topología editable real de vértices, aristas y caras.",
+  "description": "Sitio oficial de LOOPA. Descubre herramientas de modelado 3D en el navegador y prueba la demo pública gratis.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#18191c",
+  "background_color": "#0b0c0e",
   "theme_color": "#5ecd6e",
   "icons": [
     {
